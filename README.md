@@ -1,2 +1,2 @@
 # Jerosh_Repo
-Test Repositry
+Test Repository
